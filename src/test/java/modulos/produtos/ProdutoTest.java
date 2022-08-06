@@ -1,6 +1,5 @@
 package modulos.produtos;
 
-
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -23,7 +22,7 @@ public class ProdutoTest {
         // Maximizar a tela
         this.navegador.manage().window().maximize();
 
-        // Definir um tempo espera padrão de 5 segundos
+        // Definir um tempo de espera padrão de 5 segundos
         this.navegador.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
         // Navegar para a página da Lojinha Web

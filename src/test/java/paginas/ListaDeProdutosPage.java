@@ -19,4 +19,5 @@ public class ListaDeProdutosPage {
     public String capturarMensagemApresentada() {
         return navegador.findElement(By.cssSelector(".toast.rounded")).getText();
     }
+
 }

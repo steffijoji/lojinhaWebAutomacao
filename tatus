@@ -1,0 +1,14 @@
+warning: in the working copy of 'pom.xml', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/pom.xml b/pom.xml[m
+[1mindex b675317..e92bf12 100644[m
+[1m--- a/pom.xml[m
+[1m+++ b/pom.xml[m
+[36m@@ -29,7 +29,6 @@[m
+             <version>4.3.0</version>[m
+         </dependency>[m
+ [m
+[31m-[m
+     </dependencies>[m
+ [m
+ </project>[m
+\ No newline at end of file[m

@@ -13,4 +13,5 @@ public class EditarProdutoPage {
     public String capturarMensagemApresentada() {
         return navegador.findElement(By.cssSelector(".toast.rounded")).getText();
     }
+
 }

@@ -4,7 +4,7 @@ Esse repositório contém a automação de alguns Testes Web de um software deno
 ### Tecnologias Utilizadas
 - Java
 - JUnit
-- RestAssured
+- Selenium WebDriver
 - Maven
 
 ### Testes Automatizados
